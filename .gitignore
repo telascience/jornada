@@ -1,0 +1,4 @@
+*.log
+*.pyc
+jornada.egg-info/
+jornada/local_settings.py
